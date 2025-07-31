@@ -1,22 +1,19 @@
+import { BrowserRouter as Router, Routes, Route } from "react-router";
+import Home from "./Home";
 import Header from "./components/header";
-import Carousel from "./components/carousel";
-import HeroSection from "./components/heroSection";
-import Research from "./components/research";
-import Industry from "./components/industry";
-import Blog from "./components/blog";
 import Footer from "./components/footer";
+import Industries from "./Industries";
 
 function App() {
   return (
-    <>
+    <Router>
       <Header />
-      <Carousel />
-      <HeroSection />
-      <Research />
-      <Industry />
-      <Blog />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/industries/advertising-media" element={<Industries />} />
+      </Routes>
       <Footer />
-    </>
+    </Router>
   );
 }
 

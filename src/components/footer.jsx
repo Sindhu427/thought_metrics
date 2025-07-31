@@ -4,7 +4,7 @@ import logo from "../assets/Logo.svg";
 
 function Footer() {
   return (
-    <footer className="bg-red-400 text-white py-8">
+    <footer className="bg-[#E8505E] text-white py-8">
       <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-5 gap-8 px-6">
         {/* Logo and Social */}
         <div className="flex flex-col space-y-5 md:col-span-1">
