@@ -1,5 +1,5 @@
 import React from "react";
-import speakerGirl from "../assets/addmedia/speakerGirl.jpg"; // replace with your actual path
+import speakerGirl from "../assets/addmedia/speakergirl.jpg"; // replace with your actual path
 
 function AdMediaSection() {
   return (
