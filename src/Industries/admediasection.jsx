@@ -40,7 +40,7 @@ function AdMediaSection() {
           </p>
 
           {/* Button */}
-          <button className="bg-[#E8505E] text-white px-6 py-2 rounded hover:bg-[#3851A2] transition">
+          <button className="bg-[#ef5b68] text-white px-6 py-2 rounded hover:bg-[#3851A2] transition">
             Request a Bid
           </button>
         </div>

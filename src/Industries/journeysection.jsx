@@ -36,7 +36,7 @@ const JourneySection = () => {
               key={index}
               className="border border-white rounded-lg p-8 h-[400px] w-full"
             >
-              <h3 className="font-semibold text-white text-2xl mb-4">
+              <h3 className="w-[145px] h-[48px] font-semibold text-white text-[20px] mb-4">
                 {item.title}
               </h3>
               <p className=" text-white leading-relaxed py-10">
