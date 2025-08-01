@@ -52,7 +52,7 @@ function Footer() {
             </li>
             <li>
               <a href="#" className="hover:underline">
-                Fieldwork
+                Recruitment and Fieldwork
               </a>
             </li>
             <li>
@@ -84,11 +84,6 @@ function Footer() {
             </li>
             <li>
               <a href="#" className="hover:underline">
-                Communication
-              </a>
-            </li>
-            <li>
-              <a href="#" className="hover:underline">
                 Market Opportunity Research
               </a>
             </li>
@@ -100,6 +95,11 @@ function Footer() {
             <li>
               <a href="#" className="hover:underline">
                 Consumer Research and Segmentation
+              </a>
+            </li>
+            <li>
+              <a href="#" className="hover:underline">
+                Our Panel
               </a>
             </li>
           </ul>

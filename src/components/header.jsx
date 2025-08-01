@@ -62,7 +62,7 @@ function Header() {
         </li>
         <li>
           {" "}
-          <button className="border border-[#3851A2] text-[#3851A2] px-4 py-2 rounded hover:bg-blue-50 text-sm transition">
+          <button className="border border-[#E8505E] text-[#E8505E] px-4 py-2 rounded hover:bg-blue-50 text-sm transition">
             Start Your Research
           </button>
         </li>
